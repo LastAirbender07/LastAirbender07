@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lastairbender07&label=Profile%20views&color=0e75b6&style=flat" alt="lastairbender07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lastairbender07" alt="lastairbender07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=lastairbender07" alt="lastairbender07" /></a> </p>
 
 - 🌱 I’m currently learning **redux react-js dev-ops**
 
